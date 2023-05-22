@@ -1,0 +1,17 @@
+C:\Users\vital\source\repos\bootcamp\ja-bootcamp\CSharp\Homeworks\vitalii.kutsan\cs-bootcamp-task8\cs-bootcamp-task8\IoCContainer\bin\Debug\net6.0\IocContainer.exe
+C:\Users\vital\source\repos\bootcamp\ja-bootcamp\CSharp\Homeworks\vitalii.kutsan\cs-bootcamp-task8\cs-bootcamp-task8\IoCContainer\bin\Debug\net6.0\IocContainer.deps.json
+C:\Users\vital\source\repos\bootcamp\ja-bootcamp\CSharp\Homeworks\vitalii.kutsan\cs-bootcamp-task8\cs-bootcamp-task8\IoCContainer\bin\Debug\net6.0\IocContainer.runtimeconfig.json
+C:\Users\vital\source\repos\bootcamp\ja-bootcamp\CSharp\Homeworks\vitalii.kutsan\cs-bootcamp-task8\cs-bootcamp-task8\IoCContainer\bin\Debug\net6.0\IocContainer.dll
+C:\Users\vital\source\repos\bootcamp\ja-bootcamp\CSharp\Homeworks\vitalii.kutsan\cs-bootcamp-task8\cs-bootcamp-task8\IoCContainer\bin\Debug\net6.0\IocContainer.pdb
+C:\Users\vital\source\repos\bootcamp\ja-bootcamp\CSharp\Homeworks\vitalii.kutsan\cs-bootcamp-task8\cs-bootcamp-task8\IoCContainer\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\vital\source\repos\bootcamp\ja-bootcamp\CSharp\Homeworks\vitalii.kutsan\cs-bootcamp-task8\cs-bootcamp-task8\IoCContainer\obj\Debug\net6.0\IocContainer.csproj.AssemblyReference.cache
+C:\Users\vital\source\repos\bootcamp\ja-bootcamp\CSharp\Homeworks\vitalii.kutsan\cs-bootcamp-task8\cs-bootcamp-task8\IoCContainer\obj\Debug\net6.0\IocContainer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vital\source\repos\bootcamp\ja-bootcamp\CSharp\Homeworks\vitalii.kutsan\cs-bootcamp-task8\cs-bootcamp-task8\IoCContainer\obj\Debug\net6.0\IocContainer.AssemblyInfoInputs.cache
+C:\Users\vital\source\repos\bootcamp\ja-bootcamp\CSharp\Homeworks\vitalii.kutsan\cs-bootcamp-task8\cs-bootcamp-task8\IoCContainer\obj\Debug\net6.0\IocContainer.AssemblyInfo.cs
+C:\Users\vital\source\repos\bootcamp\ja-bootcamp\CSharp\Homeworks\vitalii.kutsan\cs-bootcamp-task8\cs-bootcamp-task8\IoCContainer\obj\Debug\net6.0\IocContainer.csproj.CoreCompileInputs.cache
+C:\Users\vital\source\repos\bootcamp\ja-bootcamp\CSharp\Homeworks\vitalii.kutsan\cs-bootcamp-task8\cs-bootcamp-task8\IoCContainer\obj\Debug\net6.0\IocContainer.csproj.CopyComplete
+C:\Users\vital\source\repos\bootcamp\ja-bootcamp\CSharp\Homeworks\vitalii.kutsan\cs-bootcamp-task8\cs-bootcamp-task8\IoCContainer\obj\Debug\net6.0\IocContainer.dll
+C:\Users\vital\source\repos\bootcamp\ja-bootcamp\CSharp\Homeworks\vitalii.kutsan\cs-bootcamp-task8\cs-bootcamp-task8\IoCContainer\obj\Debug\net6.0\refint\IocContainer.dll
+C:\Users\vital\source\repos\bootcamp\ja-bootcamp\CSharp\Homeworks\vitalii.kutsan\cs-bootcamp-task8\cs-bootcamp-task8\IoCContainer\obj\Debug\net6.0\IocContainer.pdb
+C:\Users\vital\source\repos\bootcamp\ja-bootcamp\CSharp\Homeworks\vitalii.kutsan\cs-bootcamp-task8\cs-bootcamp-task8\IoCContainer\obj\Debug\net6.0\IocContainer.genruntimeconfig.cache
+C:\Users\vital\source\repos\bootcamp\ja-bootcamp\CSharp\Homeworks\vitalii.kutsan\cs-bootcamp-task8\cs-bootcamp-task8\IoCContainer\obj\Debug\net6.0\ref\IocContainer.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tSrQTJja2gGI2ysbtiM0GX+L6yeiRpfUlCoGz1JAOpOxmx3uYCtOS4HYyqZ6eSf5UzZQSMUi8DYUTfF36gytEg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vital\\source\\repos\\bootcamp\\ja-bootcamp\\CSharp\\Homeworks\\vitalii.kutsan\\cs-bootcamp-task8\\cs-bootcamp-task8\\IoCContainer\\IocContainer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vital\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
